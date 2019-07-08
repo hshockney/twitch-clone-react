@@ -1,3 +1,16 @@
 {
-    "streams": []
+  "streams": [
+    {
+      "title": "New stream with id updated",
+      "description": "description with id",
+      "userId": "105968545880793718638",
+      "id": 5
+    },
+    {
+      "title": "After refactor",
+      "description": "making sure it still works",
+      "userId": "105968545880793718638",
+      "id": 7
+    }
+  ]
 }
